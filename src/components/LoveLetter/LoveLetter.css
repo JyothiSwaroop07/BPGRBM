@@ -1,8 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Sedan:ital@0;1&display=swap');
 
 .envelope {
-    position: relative;
-    width: 600px;
+    
+    width: 100%;
     height: 800px;
     margin: 50px auto;
     cursor: pointer;
