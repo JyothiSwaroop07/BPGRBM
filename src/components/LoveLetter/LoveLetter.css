@@ -16,7 +16,7 @@
   .flap {
     position: absolute;
     width: 100%;
-    height: 50%;
+    height: 60%;
     background: url('https://res.cloudinary.com/dchbfnlct/image/upload/v1730300754/images_52_bdf6hf.jpg');
     transform-origin: bottom;
     transition: transform 0.8s ease;
@@ -27,9 +27,9 @@
   
   .body {
     position: absolute;
-    top: 50%;
+    top: 65%;
     width: 100%;
-    height: 50%;
+    height: 65%;
     background: url('https://res.cloudinary.com/dchbfnlct/image/upload/v1730300754/images_52_bdf6hf.jpg');
     border-bottom-left-radius: 8px;
     border-bottom-right-radius: 8px;
@@ -42,7 +42,7 @@
     top: 50%;
     left: 0;
     width: 100%;
-    height: 50%;
+    height: 60%;
     background-color: #fafafa;
     overflow: hidden;
     transition: all 0.8s cubic-bezier(0.165, 0.84, 0.44, 1);
